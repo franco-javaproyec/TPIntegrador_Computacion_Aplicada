@@ -13,7 +13,12 @@ Este repositorio contiene los entregables solicitados en el Punto 6 del TP Integ
 - [opt.tar.gz](./opt.tar.gz) → contiene el directorio `/opt`
 - [www_dir.tar.gz](./www_dir.tar.gz) → contiene el directorio `/www_dir`
 - [backup_dir.tar.gz](./backup_dir.tar.gz) → contiene el directorio `/backup_dir`
-- [var.tar.gz](./var.tar.gz) → backup completo de `/var`
-- [var_part_aa](./var_part_aa) → parte generada mediante `split` (como pide la consigna)
+
+Archivos del directorio `/var` (comprimido y spliteado según la consigna):
+
+- [var_part_aa](./var_part_aa)
+- [var_part_ab](./var_part_ab)
+- [var_part_ac](./var_part_ac)
+- [var_part_ad](./var_part_ad)
 - Diagrama topológico de la infraestructura armada 
 
