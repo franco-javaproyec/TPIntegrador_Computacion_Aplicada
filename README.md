@@ -25,7 +25,7 @@ Archivos del directorio `/var` (comprimido y spliteado según la consigna):
 ## 🖥️ Diagrama Topológico de la Infraestructura Armata
 
 ```
-                       ┌───────────────────────────────┐
+                       ┌────────────────────────────────┐
                        │     Máquina Física (Windows)   │
                        │--------------------------------│
                        │  - Navegador Web               │
@@ -58,7 +58,7 @@ Archivos del directorio `/var` (comprimido y spliteado según la consigna):
 │  Servicios Instalados:                                                   │
 │   • SSH (root por clave pública)                                         │
 │   • Apache + PHP (index.php + logo.png)                                  │
-│   • MariaDB (db.sql importado)                                           │                                                                          │
+│   • MariaDB (db.sql importado)                                           │                                                                          
 │  Configuración de Red:                                                   │
 │   • Interfaz: enp0s3                                                     │
 │   • IP estática: 192.168.0.38                                            │
@@ -83,7 +83,7 @@ Archivos del directorio `/var` (comprimido y spliteado según la consigna):
 │  Automatizaciones:                                                       │
 │   • /opt/particion generado al inicio (@reboot)                          │
 │   • backup_full.sh en /opt/scripts                                       │
-│   • CRON:                                                                
+│   • CRON:                                                                |
 │       - 00:00 → backup /var/logs                                         │
 │       - L/M/V 23:00 → backup /www_dir                                    │
 │                                                                          │
