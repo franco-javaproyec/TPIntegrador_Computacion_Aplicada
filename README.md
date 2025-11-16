@@ -20,9 +20,9 @@ Archivos del directorio `/var` (comprimido y spliteado según la consigna):
 - [var_part_ab](./var_part_ab)
 - [var_part_ac](./var_part_ac)
 - [var_part_ad](./var_part_ad)
-- Diagrama topológico de la infraestructura armada
 
-## 🖥️ Diagrama Topológico de la Infraestructura Armata
+
+## 🖥️ Diagrama Topológico de la Infraestructura Armada
 
 ```
                        ┌────────────────────────────────┐
