@@ -1,8 +1,8 @@
 # TPIntegrador_Computacion_Aplicada
 Tp Integrador Grupo 8
-Universidad de Palermo  
+Universidad de Palermo
 Año 2025  
-
+Integrantes: Matias Ezequiel Sucharkiewicz, Ricardo Belevan, Franco Casorla y Tamara Lis Ferreyra.
 
 ## Contenido del repositorio
 
